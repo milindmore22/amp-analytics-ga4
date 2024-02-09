@@ -1,3 +1,6 @@
+>  [!CAUTION]
+> # No longer required, GA4 is now AMP Compatible
+
 # AMP GA4 Compatibility
 
 The plugin will add GA4 support for AMP.
